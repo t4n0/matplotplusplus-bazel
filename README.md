@@ -19,6 +19,10 @@ new_git_repository(
 
 2) Copy the file `BUILD.matplot` to your workspace root.
 
+# Use
+
+You may now depend on `@matplot` from other targets. Refer to files `example.cpp` and `BUILD` to inspect an exemplary usage.
+
 # Caveat
 
 - Note that [matplot++](https://github.com/alandefreitas/matplotplusplus) has certain system dependencies (e.g. `gnuplot`).
