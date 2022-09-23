@@ -1,6 +1,6 @@
 # About
 
-These instruction will provide a bazel target for [matplot++](https://github.com/alandefreitas/matplotplusplus).
+These instructions will provide a bazel target for [matplot++](https://github.com/alandefreitas/matplotplusplus).
 
 # Integrate
 
